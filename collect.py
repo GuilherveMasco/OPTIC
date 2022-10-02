@@ -81,7 +81,6 @@ for i in range(repeater + 1):
 
         url_id = "https://services.nvd.nist.gov/rest/json/cve/1.0/" + item
         response_id = requests.get(url_id, params=headers_id)
-        response_id = requests.get(url, params=headers_id)
         response_json_id = response_id.json()
         response_string_id = json.dumps(response_json_id)
         output = './output-ipv6/' + item + '.json'
