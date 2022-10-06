@@ -1,14 +1,14 @@
 import os, json, csv
 
 #IPv4 output data
-file_ipv4 = open('ipv4_oc.csv', 'r')
+file_ipv4 = open('ipv4_unique_oc.csv', 'r')
 
 cont_ipv4 = 0
 avg_sev_ipv4 = 0
 avg_exp_ipv4 = 0
 avg_imp_ipv4 = 0
 
-with open('ipv4_data.csv', 'w', newline='') as csvfile:
+with open('ipv4_unique_data.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
     writer.writerow(['CVE', 'Severity_score', 'Exploitability_score', 'Impact_score', 'Access_complexity', 'Severity'])
@@ -45,14 +45,14 @@ avg_imp_ipv4 = avg_imp_ipv4/cont_ipv4
 
 
 #IPv6 output data
-file_ipv6 = open('ipv6_oc.csv', 'r')
+file_ipv6 = open('ipv6_unique_oc.csv', 'r')
 
 cont_ipv6 = 0
 avg_sev_ipv6 = 0
 avg_exp_ipv6 = 0
 avg_imp_ipv6 = 0
 
-with open('ipv6_data.csv', 'w', newline='') as csvfile:
+with open('ipv6_unique_data.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
     writer.writerow(['CVE', 'Severity_score', 'Exploitability_score', 'Impact_score', 'Access_complexity', 'Severity'])
@@ -89,7 +89,7 @@ avg_exp_ipv6 = avg_exp_ipv6/cont_ipv6
 avg_imp_ipv6 = avg_imp_ipv6/cont_ipv6
 
 #print data for average scores
-print('Average scores for IPv4 and IPv6 vulnerabilities:')
+print('Average scores for unique IPv4 and IPv6 vulnerabilities:')
 print('\n')
 print(f'Average IPv4 severity score:\t\t {avg_sev_ipv4}')
 print(f'Average IPv6 severity score:\t\t {avg_sev_ipv6}')
