@@ -1,0 +1,363 @@
+CVE-2021-45741,TOTOLINK,stack overflow,Denial of Service,function,DoS
+CVE-2021-45489,Flow Label generation,weak cryptographic PRNG,Flow Label,Label generation algorithm,cryptographic PRNG
+CVE-2021-45485,source addresses,Linux kernel,attackers can typically,information leak,hash table
+CVE-2021-45484,weak cryptographic PRNG,cryptographic PRNG,generation algorithm employs,fragment ID generation,PRNG
+CVE-2021-45392,Buffer Overflow vulnerability,Overflow vulnerability exists,Tenda Router,Denial of Service,Buffer Overflow
+CVE-2021-45391,Buffer Overflow vulnerability,Overflow vulnerability exists,Tenda Router,Denial of Service,Buffer Overflow
+CVE-2021-45386,Reachable Assertion,Assertion in add,tcpreplay,tree,Reachable
+CVE-2021-44827,HTTP parameter,run arbitrary commands,TP-Link Archer,devices vie,root privileges
+CVE-2021-37913,card setting page,HGiga OAKlouds mobile,OAKlouds mobile portal,filter special characters,network interface card
+CVE-2021-34767,Family Wireless Controllers,Wireless Controller Software,Family Wireless,Wireless Controller,Cisco Catalyst
+CVE-2021-3128,upstream ISP router,generates excessive network,excessive network traffic,upstream ISP,ISP router
+CVE-2021-3125,upstream ISP router,generates excessive network,excessive network traffic,upstream ISP,ISP router
+CVE-2021-30273,Snapdragon Consumer IOT,Snapdragon Industrial IOT,destination options header,Consumer IOT,Industrial IOT
+CVE-2021-28362,discovered in Contiki,invalid extension header,RPL extension headers,extension header,invalid extension
+CVE-2021-27245,TP-Link Archer,Archer,prior to Archer,firewall bypass,bypass on affected
+CVE-2021-27170,discovered on FiberHome,issue was discovered,FiberHome,devices,connectivity
+CVE-2021-25664,Nucleus Source Code,Versions including affected,Nucleus ReadyStart,Nucleus NET,Nucleus Source
+CVE-2021-25663,Nucleus Source Code,Versions including affected,Nucleus ReadyStart,Nucleus NET,Nucleus Source
+CVE-2021-23270,upstream ISP router,generates excessive network,excessive network traffic,upstream ISP,ISP router
+CVE-2021-22915,brute force attacks,force attacks due,subnets in rate-limiting,rate-limiting considerations,vulnerable to brute
+CVE-2021-22161,upstream ISP router,generates excessive network,excessive network traffic,upstream ISP,ISP router
+CVE-2021-21727,ZTE product,DoS vulnerability,ZTE,sending carefully constructed,vulnerability
+CVE-2021-21410,cross-platform operating system,Next-Generation IoT devices,cross-platform operating,operating system,system for Next-Generation
+CVE-2021-21392,pypi package matrix-synapse,reference homeserver written,Matrix reference homeserver,written in python,pypi package
+CVE-2021-21279,cross-platform operating system,cross-platform operating,things devices,internet of things,operating system
+CVE-2021-20712,WAN side due,Improper access control,access control vulnerability,NEC Aterm,firewall function
+CVE-2021-20267,vSwitch firewall rules,default Open vSwitch,Open vSwitch firewall,firewall rules,openstack-neutron default Open
+CVE-2021-1389,Cisco NX-OS Software,Cisco IOS,IOS XR Software,NX-OS Software,Cisco NX-OS
+CVE-2021-1387,Cisco NX-OS Software,affected device,Cisco NX-OS,denial of service,device
+CVE-2021-1268,management interfaces,Cisco IOS,node-local multicast group,management interface network,multicast group address
+CVE-2021-1229,Cisco NX-OS Software,ICMP Version,Cisco NX-OS,NX-OS Software,denial of service
+CVE-2021-0205,Intrusion Detection Service,versions prior,Intrusion Detection,dynamic firewall filter,block unexpected traffic
+CVE-2020-8752,potentially enable escalation,ISM versions,network access,subsystem for Intel,unauthenticated user
+CVE-2020-7462,improper mbuf handling,bug by sending,improper mbuf,loopback interface,mbuf handling
+CVE-2020-7457,socket option set,option set handler,set handler contained,race condition allowing,missing synchronization
+CVE-2020-7451,Traffic Class field,Class field disclosing,challenge TCP-ACK segment,Traffic Class,TCP SYN-ACK
+CVE-2020-6880,ZXELINK wireless controller,SQL injection vulnerability,ZXELINK wireless,injection vulnerability,wireless controller
+CVE-2020-5923,Self-IP port-lockdown bypass,link-local addresses,Self-IP port-lockdown,BIG-IP versions,port-lockdown bypass
+CVE-2020-5550,Session fixation vulnerability,Session fixation,vulnerability in EasyBlocks,Enterprise Ver,fixation vulnerability
+CVE-2020-5549,Cross-site request forgery,vulnerability in EasyBlocks,Cross-site request,request forgery,Enterprise Ver
+CVE-2020-3675,Consumer Electronics Connectivity,Snapdragon Industrial IOT,Snapdragon Consumer Electronics,Snapdragon Wired Infrastructure,parsing Service Info
+CVE-2020-3338,Protocol Independent Multicast,Cisco NX-OS Software,Independent Multicast,Protocol Independent,Cisco NX-OS
+CVE-2020-3191,Adaptive Security Appliance,Firepower Threat Defense,Cisco Adaptive Security,Security Appliance,Threat Defense
+CVE-2020-28723,Memory leak,setAddress in CloudAvid,CloudAvid PParam,Memory,setAddress
+CVE-2020-27720,Port Block Allocation,Traffic Management Microkernel,undisclosed traffic pattern,Block Allocation,Management Microkernel
+CVE-2020-27338,discovered in Treck,Improper Input Validation,issue was discovered,Bounds Read,Input Validation
+CVE-2020-27337,discovered in Treck,Improper Input Validation,issue was discovered,Bounds Write,Input Validation
+CVE-2020-27336,discovered in Treck,issue was discovered,Treck,Improper input validation,unauthenticated remote attacker
+CVE-2020-27066,spi of net,improper locking,due to improper,tunnel,tunnel.c
+CVE-2020-26262,STUN Server,TURN and STUN,free open source,open source implementation,implementation of TURN
+CVE-2020-25112,stack in Contiki,issue was discovered,Remote Code Execution,Contiki,header extension lengths
+CVE-2020-25111,stack in Contiki,issue was discovered,Remote Code Execution,Contiki,stack
+CVE-2020-1749,Linux kernel implementation,VXLAN and GENEVE,Linux kernel,GENEVE tunnels,protocols in IPsec
+CVE-2020-17469,issue was discovered,discovered in FNET,FNET,fragment,incoming fragment
+CVE-2020-17468,issue was discovered,discovered in FNET,FNET,header,extension headers
+CVE-2020-17445,discovered in picoTCP,issue was discovered,destination options header,destination options,picoTCP
+CVE-2020-17444,discovered in picoTCP,issue was discovered,extension headers,extension,extension length field
+CVE-2020-17442,extension header length,discovered in picoTCP,issue was discovered,Integer Wraparound,extension headers
+CVE-2020-17441,discovered in picoTCP,issue was discovered,Information Disclosure,pico,payload length field
+CVE-2020-1609,Configuration Protocol Daemon,Dynamic Host Configuration,Host Configuration Protocol,Network Dynamic Host,Juniper Network Dynamic
+CVE-2020-1608,Series device configured,Broadband Edge,core facing interface,Juniper Networks Junos,versions prior
+CVE-2020-1603,versions prior,versions,prior,Juniper Networks Junos,scenario
+CVE-2020-15378,potential attack surface,docker container ports,Brocade SANnav,OVA version,networking exposes
+CVE-2020-14305,tracking functionality handled,connection tracking functionality,functionality handled connections,memory write flaw,Linux kernel
+CVE-2020-13986,discovered in Contiki,issue was discovered,Contiki,uIP TCP,handling RPL extension
+CVE-2020-13985,discovered in Contiki,issue was discovered,Contiki,uIP TCP,handling RPL extension
+CVE-2020-13984,discovered in Contiki,issue was discovered,uIP TCP,infinite loop exists,Contiki
+CVE-2020-13597,Calico Enterprise,enabled but unused,Clusters using Calico,vulnerable to information,information disclosure
+CVE-2020-13401,Docker Engine,discovered in Docker,issue was discovered,RAW capability,obtain sensitive information
+CVE-2020-12740,heap-based buffer over-read,tcprewrite in Tcpreplay,heap-based buffer,buffer over-read,Tcpreplay
+CVE-2020-12390,incorrect security checks,Incorrect origin serialization,addresses could lead,security checks,origin serialization
+CVE-2020-11913,Treck TCP,Read,TCP,Treck,stack
+CVE-2020-11899,Treck TCP,Read,TCP,Treck,stack
+CVE-2020-11897,Treck TCP,Write via multiple,packets,multiple malformed,TCP
+CVE-2020-10887,Firmware Ver,TP-Link Archer,firewall bypass,bypass on affected,affected installations
+CVE-2020-10749,Kubernetes clusters,clusters to perform,vulnerability was found,malicious container,versions of containernetworking
+CVE-2020-0597,potentially enable denial,ISM versions,AMT and Intel,network access,subsystem in Intel
+CVE-2020-0595,potentially enable escalation,ISM versions,AMT and Intel,network access,subsystem in Intel
+CVE-2020-0594,potentially enable escalation,ISM versions,AMT and Intel,network access,subsystem in Intel
+CVE-2020-0137,missing permission check,networking permissions due,permission check,bypass of networking,networking permissions
+CVE-2019-9183,issue was discovered,discovered in Contiki-NG,Contiki,issue,discovered
+CVE-2019-8744,corruption issue existed,Security Update,macOS Catalina,Security Update 2019-001,packets
+CVE-2019-8377,discovered in Tcpreplay,issue was discovered,NULL pointer dereference,Tcpreplay,NULL pointer
+CVE-2019-8359,issue was discovered,discovered in Contiki-NG,Contiki,forged fragment offsets,issue
+CVE-2019-8317,devices with firmware,discovered on D-Link,Command Injection,Command Injection allowing,command Injection vulnerability
+CVE-2019-8313,devices with firmware,discovered on D-Link,Command Injection,Command Injection allowing,command Injection vulnerability
+CVE-2019-5611,function to arrange,chain of mbufs,arrange data,data returned,missing check
+CVE-2019-5597,fragment reassembly logic,allowing maliciously crafted,reassembly logic incorrectly,extension header offset,packet allowing maliciously
+CVE-2019-5535,Workstation and Fusion,VMware Workstation,vulnerability due,due to improper,improper handling
+CVE-2019-20422,NOREF flag,Linux kernel,fib.c mishandles,reference-count decision,identified by syzkaller
+CVE-2019-1964,Cisco NX-OS Software,processing of Cisco,Cisco NX-OS,NX-OS Software,affected device
+CVE-2019-18282,device tracking vulnerability,Linux kernel,dissector feature,tracking vulnerability,device tracking
+CVE-2019-18198,reference count usage,count usage error,NOREF flag,handling the FIB,Linux kernel
+CVE-2019-17273,Controller Software version,Denial of Service,Controller Software,Software version,SANtricity OS Controller
+CVE-2019-16994,memory leak exists,Linux kernel,exists in sit,denial of service,register sitn
+CVE-2019-1690,Policy Infrastructure Controller,Application Policy Infrastructure,Cisco Application Policy,gain unauthorized access,Infrastructure Controller
+CVE-2019-14022,Snapdragon Consumer IOT,Snapdragon Industrial IOT,invalid length due,Consumer IOT,Industrial IOT
+CVE-2019-13952,stack-based buffer overflow,function in zscan,long and malformed,address in zone,zone data
+CVE-2019-1324,information disclosure vulnerability,Windows TCP,disclosure vulnerability exists,stack improperly handles,information disclosure
+CVE-2019-12657,Unified Threat Defense,Threat Defense,Unified Threat,Cisco IOS,IOS XE Software
+CVE-2019-12378,Linux kernel,control in net,NULL pointer dereference,Linux,NULL pointer
+CVE-2019-12111,NULL pointer dereference,Denial Of Service,Service vulnerability,NULL pointer,exists due
+CVE-2019-10603,Consumer Electronics Connectivity,Snapdragon Consumer IOT,Snapdragon Industrial IOT,Snapdragon Consumer Electronics,free issue occurs
+CVE-2019-1010251,Information Security Foundation,Security Foundation Suricata,Open Information Security,Foundation Suricata prior,DNS detection bypass
+CVE-2019-0067,Juniper Networks Junos,Juniper Networks,Networks Junos,specific link-local,affects Juniper Networks
+CVE-2019-0008,Packet Forwarding Engine,Forwarding Engine manager,versions prior,Forwarding Engine,stack based buffer
+CVE-2018-6925,NULL pointer dereference,protocol control block,control block flags,unprivileged authenticated local,authenticated local user
+CVE-2018-5951,discovered in Mikrotik,issue was discovered,Mikrotik RouterOS,Mikrotik,RouterOS
+CVE-2018-5915,Exception in Modem,Modem IP stack,snapdragon automobile,stack while processing,wear in versions
+CVE-2018-5752,server-side request forgery,conduct server-side request,vectors involving non-decimal,involving non-decimal representations,App Suite
+CVE-2018-5703,vectors involving TLS,involving TLS,Linux kernel,sock function,function in net
+CVE-2018-5515,RADIUS authentication responses,TMM to crash,failover event,RADIUS authentication,RADIUS server
+CVE-2018-5510,Traffic Management Microkernel,Management Microkernel,Traffic Management,virtual servers,restart when processing
+CVE-2018-17153,Western Digital,authentication bypass vulnerability,Digital My Cloud,authentication bypass,Cloud device
+CVE-2018-15505,discovered in Embedthis,Embedthis GoAhead,HTTP POST request,issue was discovered,NULL pointer dereference
+CVE-2018-0467,Cisco IOS,code of Cisco,IOS XE Software,IOS and IOS,processing code
+CVE-2018-0164,Switch Integrated Security,Integrated Security Features,Switch Integrated,Integrated Security,Security Features
+CVE-2018-0136,Trident-based line cards,Aggregation Services Router,Cisco Aggregation Services,Trident-based line,Software Release
+CVE-2018-0094,UCS Central Software,Cisco UCS Central,UCS Central,Central Software,ingress packet processing
+CVE-2018-0058,versions prior,Series subscriber management,Generation Subscriber Management,Series,versions
+CVE-2018-0017,Network Address Translation,Protocol Translation,Address Translation,SRX series devices,Juniper Networks Junos
+CVE-2017-9496,physically proximate attackers,Ethernet port,access an SNMP,SNMP server,Comcast firmware
+CVE-2017-9488,unspecified hardcoded credentials,entering unspecified hardcoded,firmware version,Comcast firmware,devices allows remote
+CVE-2017-9487,firmware version,discover a WAN,devices allows remote,MAC address,Comcast firmware
+CVE-2017-9484,simple arithmetic calculations,sniffing Wi-Fi traffic,performing simple arithmetic,firmware version,MAC address
+CVE-2017-9353,Wireshark,dissector could crash,crash,address,addressed in epan
+CVE-2017-9264,parsing malformed TCP,Open vSwitch,implementation in Open,malformed TCP,triggered remotely
+CVE-2017-9242,crafted system calls,skb data structure,Linux kernel,function in net,structure may occur
+CVE-2017-9077,crafted system calls,mishandles inheritance,Linux kernel,sock function,function in net
+CVE-2017-9076,crafted system calls,mishandles inheritance,Linux kernel,sock function,function in net
+CVE-2017-9075,crafted system calls,mishandles inheritance,Linux kernel,function in net,system calls
+CVE-2017-9074,send system calls,read and BUG,Linux kernel,fragmentation implementation,invalid option
+CVE-2017-8289,Stack-based buffer overflow,potentially remote attackers,str.c in RIOT,RIOT prior,Stack-based buffer
+CVE-2017-7649,network enabled distribution,device firewall setup,firewall setup,firewall rules,network enabled
+CVE-2017-7542,function in net,Linux kernel,denial of service,integer overflow,infinite loop
+CVE-2017-7508,OpenVPN versions,vulnerable to remote,receiving malformed,packet,OpenVPN
+CVE-2017-6603,Series Devices running,Packet Processing,Cisco ASR,Series Devices,vulnerability in Cisco
+CVE-2017-6552,routing table size,insufficiently large default,routing table,table size,filled within minutes
+CVE-2017-6519,UDP packets,obtaining potentially sensitive,avahi-daemon in Avahi,potentially sensitive information,traffic amplification
+CVE-2017-6227,Fibre Channel SAN,Brocade Fibre Channel,crafted Router Advertisement,Channel SAN products,running Brocade Fabric
+CVE-2017-6074,REQUEST packet data,RECVPKTINFO setsockopt system,setsockopt system call,packet data structures,obtain root privileges
+CVE-2017-5897,vectors involving GRE,involving GRE flags,Linux kernel,involving GRE,GRE flags
+CVE-2017-5204,parser in tcpdump,buffer overflow,print,parser,tcpdump
+CVE-2017-4950,Workstation and Fusion,VMware NAT service,integer overflow vulnerability,NAT service,VMware Workstation
+CVE-2017-4949,Workstation and Fusion,VMware NAT service,NAT service,VMware Workstation,VMware NAT
+CVE-2017-3850,Autonomic Networking Infrastructure,Cisco IOS Software,Cisco IOS,Networking Infrastructure,Autonomic Networking
+CVE-2017-2348,high CPU utilization,Juniper Enhanced jdhcpd,Enhanced jdhcpd daemon,experience high CPU,UDP packet
+CVE-2017-2340,Juniper Networks Junos,Packet Forwarding Engine,Enhanced Subscriber Management,Forwarding Engine,Juniper Networks
+CVE-2017-2315,Series Ethernet Switches,Ethernet Switches running,Series Ethernet,Switches running affected,Networks EX Series
+CVE-2017-2301,Juniper Networks products,platforms running Junos,prior,Juniper Networks,jdhcpd daemon crashes
+CVE-2017-18509,discovered in net,specific socket option,stop general protection,general protection fault,net
+CVE-2017-18137,Qualcomm Snapdragon Mobile,security patch level,Snapdragon Mobile,Qualcomm Snapdragon,Android before security
+CVE-2017-17877,Valve Steam Link,Steam Link build,Valve Steam,Steam Link,Link build
+CVE-2017-17165,Huawei Quidway,function in Huawei,Quidway,read vulnerability,Huawei
+CVE-2017-14492,router advertisement request,Heap-based buffer overflow,execute arbitrary code,Heap-based buffer,denial of service
+CVE-2017-13772,Multiple stack-based buffer,stack-based buffer overflows,remote authenticated users,execute arbitrary code,addr parameter
+CVE-2017-13725,routing header parser,routing header,header parser,parser in tcpdump,buffer over-read
+CVE-2017-13031,fragmentation header parser,fragmentation header,header parser,parser in tcpdump,buffer over-read
+CVE-2017-13025,mobility parser,parser in tcpdump,buffer over-read,opt,print
+CVE-2017-13024,mobility parser,parser in tcpdump,buffer over-read,opt,print
+CVE-2017-13023,mobility parser,parser in tcpdump,buffer over-read,opt,print
+CVE-2017-13009,mobility parser,parser in tcpdump,buffer over-read,print,mobility
+CVE-2017-12986,routing header parser,routing header,header parser,parser in tcpdump,buffer over-read
+CVE-2017-12985,parser in tcpdump,buffer over-read,print,parser,tcpdump
+CVE-2017-12244,Series Security Appliances,high CPU utilization,Adaptive Security Appliance,Series Appliances,Security Appliances
+CVE-2017-12211,Simple Network Management,Network Management Protocol,Simple Network,Management Protocol,Network Management
+CVE-2016-9919,dst data structure,Linux kernel,send function,function in net,data structure
+CVE-2016-9755,writev system calls,integer overflow,Linux kernel,denial of service,makes socket
+CVE-2016-9252,Traffic Management Microkernel,minimum path MTU,path MTU options,properly handle minimum,handle minimum path
+CVE-2016-9219,Wireless LAN Controller,Cisco Wireless LAN,UDP ingress packet,LAN Controller,ingress packet processing
+CVE-2016-6624,involving improper enforcement,IP-based authentication rules,phpMyAdmin involving improper,issue was discovered,involving improper
+CVE-2016-6467,Aggregation Services Router,Network Processing Unit,Cisco Aggregation Services,Services Router,Series Switch
+CVE-2016-6401,Carrier Routing System,Cisco Carrier Routing,CRS Carrier Grade,Carrier Grade Services,Routing System
+CVE-2016-6382,Protocol Independent Multicast,Protocol Independent,Independent Multicast,aka Bug,device restart
+CVE-2016-6162,Linux kernel,socket operations,net,core,panic
+CVE-2016-5417,resolver data structures,server management code,leveraging partial initialization,internal resolver data,GNU C Library
+CVE-2016-4925,processor exception,line card,line card reset,card,specifically malformed
+CVE-2016-4921,prior,router running Junos,Networks router running,Juniper Networks Junos,inability to store
+CVE-2016-3841,mishandles options data,sendmsg system call,crafted sendmsg system,Linux kernel,mishandles options
+CVE-2016-1879,Control Transmission Protocol,Stream Control Transmission,NULL pointer dereference,Transmission Protocol,Stream Control
+CVE-2016-1409,Neighbor Discovery,Cisco IOS,stack in Cisco,aka Bug,packet-processing outage
+CVE-2016-1370,Network Analysis Module,Prime Network Analysis,Cisco Prime Network,mond process crash,Analysis Module
+CVE-2016-1346,Mobility Services Engine,Cisco TelePresence Server,aka Bug,Services Engine,TelePresence Server
+CVE-2016-1275,MAC addresses directly,obtain sensitive mbuf,sensitive mbuf information,Juniper Junos,VPLS routing-instances
+CVE-2016-1245,Neighbor Discovery messages,Neighbor Discovery,stack-based buffer overflow,daemon in Quagga,overflow when processing
+CVE-2016-10142,related to ICMP,Host,ICMP Packet,PTB error,PTB
+CVE-2015-8725,stack-based buffer overflow,prefix length,function in epan,denial of service,stack-based buffer
+CVE-2015-8215,Router Advertisement,Linux kernel,packet loss,denial of service,validate attempted
+CVE-2015-6359,mishandles internal tables,ASR devices mishandles,Neighbor Discovery,Cisco IOS,devices mishandles internal
+CVE-2015-6340,hamgr process restart,Proxy Mobile,Cisco ASR,aka Bug,devices with software
+CVE-2015-6279,Cryptographically Generated Address,first-hop security subsystem,Generated Address,Cryptographically Generated,Cisco IOS
+CVE-2015-6278,Control Plane Protection,first-hop security subsystem,Plane Protection,Control Plane,Cisco IOS
+CVE-2015-6270,Embedded Services Processor,Services Processor crash,Cisco IOS,Processor crash,aka Bug
+CVE-2015-6258,Access Point Protocol,Wireless LAN Controller,Internet Access Point,Cisco Wireless LAN,Point Protocol
+CVE-2015-5869,Neighbor Discovery,Router Advertisement,stack in Apple,Apple iOS,protocol implementation
+CVE-2015-5360,Secure Neighbor Discovery,crafted Secure Neighbor,protocols neighbor-discovery secure,set protocols neighbor-discovery,secure security-level default
+CVE-2015-5293,Enterprise Virtualization Manager,Hat Enterprise Virtualization,Red Hat Enterprise,Virtualization Manager,Hat Enterprise
+CVE-2015-4215,Wireless LAN Controller,Cisco Wireless LAN,LAN Controller,Wireless LAN,Cisco Wireless
+CVE-2015-4203,Performance Routing Engine,PXF process crash,sending malformed MPLS,Cisco IOS,Routing Engine
+CVE-2015-4191,Cisco IOS,aka Bug,service reload,remote attackers,packet
+CVE-2015-2924,Neighbor Discovery,Router Advertisement,stack in NetworkManager,function in rdisc,protocol implementation
+CVE-2015-2923,Neighbor Discovery,Router Advertisement,protocol implementation,stack in FreeBSD,small hop
+CVE-2015-2922,Router Advertisement,Neighbor Discovery,Linux kernel,function in net,protocol implementation
+CVE-2015-1104,intended network-filtering protection,network-filtering protection mechanism,local origin,Apple iOS,properly determine
+CVE-2015-0769,Carrier Routing System,NPU ASIC scan,Carrier Routing,NPU ASIC,Routing System
+CVE-2015-0711,Proxy Mobile,implementation in Cisco,Cisco StarOS,aka Bug,devices allows remote
+CVE-2015-0641,Cisco IOS,aka Bug,device reload,denial of service,remote attackers
+CVE-2015-0618,Network Convergence System,Carrier Routing System,Network Convergence,Carrier Routing,Cisco IOS
+CVE-2015-0598,aka Bug IDs,aka Bug,Bug IDs,Attributes in Access-Accept,Cisco IOS
+CVE-2015-0272,Router Advertisement,GNOME NetworkManager,traffic disruption,crafted MTU,denial of service
+CVE-2015-0261,Integer signedness error,possibly execute arbitrary,execute arbitrary code,read and crash,Integer signedness
+CVE-2014-9751,machine network interface,spoof restricted packets,ntpd machine network,function in ntp,runtime state
+CVE-2014-8153,router update processing,blocked router update,remote authenticated users,OpenStack Neutron,agent in OpenStack
+CVE-2014-7207,NULL pointer dereference,ident function calls,macvtap device access,properly validate arguments,Linux kernel
+CVE-2014-6450,mbuf chain corruption,Juniper Junos,denial of service,mbuf chain,kernel panic
+CVE-2014-3676,Heap-based buffer overflow,execute arbitrary code,boot option,overflow in Shim,Shim allows remote
+CVE-2014-3554,DNS Search List,crafted DNS Search,possibly execute arbitrary,execute arbitrary code,Search List
+CVE-2014-3405,Autonomic Control Plane,Autonomic Networking Infrastructure,external Autonomic Networking,crafted RPL advertisements,Routing Protocol
+CVE-2014-3353,Carrier Routing System,Cisco Carrier Routing,Routing System,Carrier Routing,aka Bug
+CVE-2014-2309,Router Advertisement packets,Router Advertisement,Advertisement packets,memory consumption,Linux kernel
+CVE-2014-2176,Trident-based line card,line card reload,Cisco IOS,aka Bug,Trident-based line
+CVE-2014-2113,aka Bug,Cisco IOS,denial of service,device reload,remote attackers
+CVE-2014-0705,Wireless LAN Controller,Cisco Wireless LAN,multicast listener discovery,LAN Controller,Snooping is enabled
+CVE-2014-0254,Router Advertisement packets,properly validate packets,Router Advertisement,denial of service,Service Vulnerability
+CVE-2013-6982,labeled unicast-address families,Cisco NX-OS,aka Bug,peer reset,BGP implementation
+CVE-2013-6798,situations involving successive,involving successive logins,bypass intended restrictions,remote file-access folders,Peer Manager
+CVE-2013-6683,handle neighbor-table adjacencies,properly handle neighbor-table,implementation in Cisco,aka Bug,Cisco NX-OS
+CVE-2013-6431,SIOCADDRT ioctl call,NULL pointer dereference,implement error-code encoding,properly implement error-code,NULL pointer
+CVE-2013-5691,ATM ioctl request,perform link-layer actions,possibly gain privileges,ioctl request handlers,ATM ioctl
+CVE-2013-5560,Adaptive Security Appliance,Cisco Adaptive Security,process NAT rules,Security Appliance,properly process NAT
+CVE-2013-5474,virtual fragmentation reassembly,Cisco IOS,implementation in Cisco,aka Bug,Race condition
+CVE-2013-4563,Token Bucket Filter,UDP Fragmentation Offload,Fragmentation Offload,Bucket Filter,Token Bucket
+CVE-2013-4387,UDP Fragmentation Offload,Fragmentation Offload,large response packet,UDP Fragmentation,Linux kernel
+CVE-2013-4350,obtain sensitive information,SCTP implementation,Linux kernel,implementation in net,IPsec encryption
+CVE-2013-4163,MTU setsockopt option,properly maintain information,setsockopt system call,CORK option,mtu function
+CVE-2013-4162,incorrect function call,setsockopt system call,CORK option,Linux kernel,makes an incorrect
+CVE-2013-4125,handle Router Advertisement,properly handle Router,ECMP route set,Router Advertisement,Linux kernel
+CVE-2013-3694,involving DNS rebinding,CSRF attack involving,attack involving DNS,remote file-access folders,create arbitrary files
+CVE-2013-3365,wan network prefix,execute arbitrary commands,remote authenticated users,NtpDstOffset to adm,port to adm
+CVE-2013-3077,Multiple integer overflows,bypass intended restrictions,MSFILTER features,Multiple integer,kernel in FreeBSD
+CVE-2013-3035,IBM AIX,system hang,subsystem in IBM,denial of service,inet subsystem
+CVE-2013-2779,Leaf Recycle Elimination,Multicast Leaf Recycle,Aggregation Services Routers,Cisco Multicast Leaf,series Aggregation Services
+CVE-2013-20001,issue was discovered,discovered in OpenZFS,NFS share,address data,issue
+CVE-2013-1164,Leaf Recycle Elimination,Aggregation Services Routers,Multicast Leaf Recycle,series Aggregation Services,Cisco Multicast Leaf
+CVE-2013-0405,Oracle Sun Solaris,NFS client mounts,Sun Solaris,Oracle Sun,vulnerability in Oracle
+CVE-2013-0343,obtain sensitive information,properly handle problems,Router Advertisement,temporary addresses,Linux kernel
+CVE-2012-5366,Router Advertisement packets,multiple Routing entries,Router Advertisement,Apple Mac,implementation in Apple
+CVE-2012-5365,Router Advertisement packets,multiple Routing entries,Router Advertisement,Routing entries,unknown versions
+CVE-2012-5364,Router Advertisement packets,multiple Routing entries,Microsoft Windows,Router Advertisement,implementation in Microsoft
+CVE-2012-5363,Neighbor Solicitation messages,Neighbor Solicitation,Solicitation messages,unknown versions,implementation in FreeBSD
+CVE-2012-5362,Neighbor Solicitation messages,Microsoft Windows,Neighbor Solicitation,implementation in Microsoft,Solicitation messages
+CVE-2012-4444,bypass intended network,intended network restrictions,Linux kernel,queue function,function in net
+CVE-2012-3955,ISC DHCP,lease expiration time,daemon crash,denial of service,remote attackers
+CVE-2012-3946,bypass interface ACL,interface ACL restrictions,expected packet drops,Cisco IOS,aka Bug
+CVE-2012-3079,Cisco IOS,CPU consumption,aka Bug,neighbors,denial of service
+CVE-2012-3062,Multicast Listener Discovery,Listener Discovery,Multicast Listener,Cisco IOS,aka Bug
+CVE-2012-3058,Adaptive Security Appliances,ASA Services Module,Cisco Adaptive Security,triggers syslog message,Security Appliances
+CVE-2012-2744,NULL pointer dereference,NULL pointer,module is enabled,Linux kernel,denial of service
+CVE-2012-1583,Double free vulnerability,Linux kernel,Double free,rcv function,function in net
+CVE-2012-1366,Multicast Listener Discovery,crafted MLD packets,Listener Discovery,Multicast Listener,Cisco IOS
+CVE-2012-1324,Cisco IOS,Firewall in Cisco,aka Bug,device crash,Zone-Based Firewall
+CVE-2012-0475,WebSocket operation involving,nonstandard port number,Mozilla Firefox,HTTP headers,literal ACL
+CVE-2012-0369,Wireless LAN Controller,Cisco Wireless LAN,LAN Controller,Wireless LAN,Cisco Wireless
+CVE-2012-0179,Microsoft Windows Server,Double free vulnerability,Double free,free vulnerability,Windows Server
+CVE-2011-4868,NULL pointer dereference,crafted packets related,Dynamic DNS,ISC DHCP,NULL pointer
+CVE-2011-4326,UDP Fragmentation Offload,Fragmentation Offload,UDP Fragmentation,configuration is enabled,system crash
+CVE-2011-3670,literal address syntax,obtain sensitive information,making XMLHttpRequest calls,Mozilla Firefox,literal address
+CVE-2011-3324,Link State Advertisement,Database Description message,State Advertisement,Database Description,Link State
+CVE-2011-3323,Link State Update,State Update message,Link State,State Update,prefix length
+CVE-2011-3296,Cisco Firewall Services,Firewall Services Module,trigger syslog message,aka FWSM,Cisco Firewall
+CVE-2011-3274,expired MPLS TTL,MPLS TTL,aka Bug,Cisco IOS,device crash
+CVE-2011-2699,generate Fragment Identification,sending crafted packets,Fragment Identification,disrupted networking,Linux kernel
+CVE-2011-2395,Router Advertisement Guarding,Echo Request message,Advertisement Guarding functionality,long Destination Options,Destination Options extension
+CVE-2011-2393,BSD-based operating systems,Neighbor Discovery,Router Advertisement,CPU consumption,stack in FreeBSD
+CVE-2011-2391,CPU consumption,kernel in Apple,Apple iOS,denial of service,remote attackers
+CVE-2011-2059,Echo Request packet,IOS operating system,PadN option data,conduct fingerprinting attacks,obtain potentially sensitive
+CVE-2011-1418,stateless address autoconfiguration,aka SLAAC,places the MAC,Apple iOS,networking implementation
+CVE-2011-1172,resulting modprobe process,obtain potentially sensitive,potentially sensitive information,leveraging the CAP,ADMIN capability
+CVE-2011-1138,application crash,iphc function,platforms allows remote,denial of service,remote attackers
+CVE-2011-1132,NULL pointer dereference,involving socket options,vectors involving socket,Apple Mac,NULL pointer
+CVE-2011-0944,Cisco IOS,aka Bug,device reload,packets,denial of service
+CVE-2011-0413,ISC DHCP,server in ISC,denial of service,assertion failure,daemon crash
+CVE-2011-0393,Adaptive Security Appliances,PIX Security Appliances,Cisco Adaptive Security,Cisco PIX Security,packet buffer exhaustion
+CVE-2010-4684,Cisco IOS,aka Bug,device crash,debugging is enabled,denial of service
+CVE-2010-4671,Neighbor Discovery,Router Advertisement,Cisco IOS,stack in Cisco,aka Bug
+CVE-2010-4670,Adaptive Security Appliances,PIX Security Appliances,Cisco Adaptive Security,Cisco PIX Security,Security Appliances devices
+CVE-2010-4669,Windows Server,Neighbor Discovery,Router Advertisement,Windows Vista,Microsoft Windows
+CVE-2010-4563,Linux kernel,Echo Request,Echo Reply,demonstrated by thcping,remote attackers
+CVE-2010-4562,Echo Request,Echo Reply,Microsoft Windows,demonstrated by thcping,remote attackers
+CVE-2010-2523,Multiple buffer overflows,daemon in UMIP,INFO packet,Multiple buffer,OPT
+CVE-2010-2522,daemon in UMIP,spoof netlink socket,netlink socket communication,crafted unicast message,netlink messages originated
+CVE-2010-2363,Unicast Reverse Path,Reverse Path Forwarding,properly drop packets,bypass intended access,intended access restrictions
+CVE-2010-1892,Memory Corruption Vulnerability,Microsoft Windows Vista,properly handle malformed,multiple crafted packets,Memory Corruption
+CVE-2010-0437,TUN network interface,NULL pointer dereference,TUN network,NULL pointer,dereference and OOPS
+CVE-2010-0241,Route Information Vulnerability,Route Information packets,Microsoft Windows Vista,Windows Vista Gold,Route Information
+CVE-2010-0239,Router Advertisement Vulnerability,Router Advertisement packets,Microsoft Windows Vista,Windows Vista Gold,Router Advertisement
+CVE-2010-0006,NULL pointer dereference,NULL pointer,Linux kernel,jumbo function,function in net
+CVE-2009-4913,Adaptive Security Appliances,Cisco Adaptive Security,bypass intended access,intended access restrictions,Security Appliances
+CVE-2009-3641,ICMP protocol,application crash,option is enabled,denial of service,remote attackers
+CVE-2009-3164,GigaSwift Ethernet Adapter,Cassini GigaSwift Ethernet,involving jumbo frames,vectors involving jumbo,Sun Solaris
+CVE-2009-2208,modifying the MTU,network interfaces,modify or disable,enforce permissions,local users
+CVE-2009-2187,Multiple memory leaks,Sun Solaris,kernel in Sun,REQ messages,multicast implementation
+CVE-2009-1906,DataDirect JDBC driver,DRDA Services component,third-party DataDirect JDBC,APPID string,JDBC driver
+CVE-2009-1360,Network Namespace Support,NULL pointer dereference,Namespace Support,Network Namespace,aka NET
+CVE-2009-0634,NAT Traversal feature,Multiple unspecified vulnerabilities,input queue wedge,Cisco IOS,NAT Traversal
+CVE-2009-0633,NAT Traversal feature,Multiple unspecified vulnerabilities,input queue wedge,Cisco IOS,NAT Traversal
+CVE-2009-0418,Forward Information Base,Neighbor Discovery Protocol,Neighbor Discovery messages,read private network,private network traffic
+CVE-2009-0304,insufficient validation security,validation security vulnerability,Sun Solaris,system crash,kernel in Sun
+CVE-2008-4404,Forward Information Base,Neighbor Discovery Protocol,Neighbor Discovery messages,IBM zSeries servers,read private network
+CVE-2008-3816,Adaptive Security Appliances,PIX Security Appliances,Cisco Adaptive Security,Security Appliances,Series and PIX
+CVE-2008-3686,NULL pointer dereference,route.c in Linux,kernel OOPS,triggers a NULL,NULL pointer
+CVE-2008-2476,Forward Information Base,Neighbor Discovery Protocol,Wind River VxWorks,Neighbor Discovery messages,read private network
+CVE-2008-2136,Simple Internet Transition,skb reference count,Internet Transition,Simple Internet,Linux kernel
+CVE-2008-2085,crafted SIP message,Multiple stack-based buffer,stack-based buffer overflows,possibly execute arbitrary,execute arbitrary code
+CVE-2008-1576,obtain sensitive information,execute arbitrary code,properly initialize memory,Apple Mac,Mail in Apple
+CVE-2008-1057,input.c in OpenBSD,routing headers,denial of service,check,panic
+CVE-2008-0630,execute arbitrary code,pointer to NULL,crafted URL,URL that prevents,url.c in MPlayer
+CVE-2008-0352,Jumbo Payload,Linux kernel,involving the Jumbo,denial of service,possibly involving
+CVE-2008-0177,system crash,KAME project,denial of service,input function,pulldown function
+CVE-2007-6439,trigger resource consumption,USB dissector,denial of service,infinite or large,large loop
+CVE-2007-4689,Double free vulnerability,execute arbitrary code,Apple Mac,system shutdown,Networking component
+CVE-2007-4567,NULL pointer dereference,NULL pointer,extended header,Linux kernel,jumbo function
+CVE-2007-4285,partial packet contents,obtain sensitive information,Cisco IOS,routing header,Unspecified vulnerability
+CVE-2007-3248,Sun Solaris,system crash,vulnerability in Sun,Unspecified vulnerability,interfaces are present
+CVE-2007-3157,High Assurance Remote,SafeNET High Assurance,High Assurance,support for IPSec,Assurance Remote
+CVE-2007-3038,Information Disclosure Vulnerability,Microsoft Windows Vista,Windows Vista Firewall,Vista Firewall Blocking,firewall blocking rules
+CVE-2007-2242,create network amplification,route headers,protocol allows remote,service via crafted,type
+CVE-2007-1865,Hat Enterprise Linux,Red Hat Enterprise,obtain sensitive information,kernel memory contents,Enterprise Linux
+CVE-2007-1592,listening TCP socket,Linux kernel,inadvertently copies,denial of service,attaching a flow
+CVE-2007-1497,Linux kernel,conntrack in netfilter,fragmented packets,set nfctinfo,nfctinfo during reassembly
+CVE-2007-1388,NULL pointer dereference,sockglue.c in Linux,Linux kernel,triggers a NULL,NULL pointer
+CVE-2007-1365,incorrect mbuf handling,execute arbitrary code,Buffer overflow,overflow in kern,code via fragmented
+CVE-2007-1000,arbitrary kernel memory,read arbitrary kernel,NULL dereference,trigger a NULL,sticky function
+CVE-2007-0481,Routing header,Cisco IOS,IOS allows remote,denial of service,remote attackers
+CVE-2007-0343,echo request packets,CPU consumption,ICMP,aka,loop and CPU
+CVE-2006-6266,aka ping tests,induce Teredo clients,non-Teredo source addresses,Teredo clients,start direct
+CVE-2006-6263,Teredo clients,Internet gateways,source routing,Routing header,remote attackers
+CVE-2006-5073,Sun Solaris,denial of service,Unspecified vulnerability,remote attackers,panic
+CVE-2006-5013,Sun Solaris,kernel panic,patch 118855-16,denial of service,remote attackers
+CVE-2006-3529,Juniper JUNOS,kernel packet memory,packet memory consumption,leak in Juniper,denial of service
+CVE-2006-1651,Microsoft ISA Server,ISA Server,Microsoft ISA,Basic Firewall support,TCP
+CVE-2005-4886,Linux kernel,denial of service,exthdr function,remote attackers,incorrect call
+CVE-2005-3858,unspecified parameter problems,input.c in Linux,Linux kernel,prevents the SKB,Memory leak
+CVE-2005-3806,flow label handling,label handling code,corrupt kernel memory,flow label,handling code
+CVE-2005-3670,Internet Key Exchange,PROTOS ISAKMP Test,ISAKMP Test Suite,Key Exchange version,IPsec Print Server
+CVE-2005-2973,udp.c in Linux,port function,denial of service,infinite loop,loop and crash
+CVE-2005-2451,local network segment,possibly execute arbitrary,execute arbitrary code,device reload,Cisco IOS
+CVE-2005-1649,Windows Firewall turned,SYN flag set,CPU consumption,Windows Firewall,Firewall turned
+CVE-2005-0337,bypass e-mail restrictions,perform mail relaying,backup is enabled,enabled in smtpd,remote attackers
+CVE-2005-0195,Cisco IOS,device restart,denial of service,remote attackers,packet
+CVE-2005-0021,command line option,dnsdb PTR lookup,Multiple buffer overflows,execute arbitrary code,command line
+CVE-2004-0786,HTTP Test Tool,Codenomicon HTTP Test,child process crash,URI parsing routines,Test Tool
+CVE-2004-0592,TCP options rules,large option length,SUSE Linux,kernel with USAGI,USAGI patches
+CVE-2004-0468,Packet Forwarding Engine,JUNOS Packet Forwarding,Juniper JUNOS Packet,Forwarding Engine,Juniper JUNOS
+CVE-2004-0370,KAME Project,read kernel memory,socket options,system panic,setsockopt call
+CVE-2004-0257,small MTU,issuing a TCP,TCP connect,denial of service,remote attackers
+CVE-2004-0150,execute arbitrary code,function in Python,obtained using DNS,support is disabled,Buffer overflow
+CVE-2003-1064,kernel panic,enabled allows remote,denial of service,remote attackers,Solaris
+CVE-2003-0473,capability in IRIX,root user,unknown implications,snoop to process,process packets
+CVE-2003-0472,capability in IRIX,denial of service,port scanning,remote attackers,inetd via port
+CVE-2003-0254,FTP proxy server,proxy server fails,CPU consumption,FTP proxy,denial of service
+CVE-2002-2198,execute arbitrary code,code during HELO,HELO processing,Buffer overflow,long hostname
+CVE-2002-0992,modifies internal data,functionality for DCE,DCE daemons,rpcd on HP-UX,crash
