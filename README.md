@@ -1,2 +1,2 @@
-# IPvVC
-Internet Protocol versions Vulnerabilities Comparator
+# OPTIC
+Online Python Tool for Internet protocol Comparisons
